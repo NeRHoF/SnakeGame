@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Model.ModelGame" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkAAAABAAAEgAAABAQAAAAAAIIAAYAAAAAgCQAEA=</HashCode>
+      <FileName>ModelGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.ModelInstruction" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModelInstruction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.ModelMenu" Collapsed="true">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>ModelMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.ModelMenuItem" Collapsed="true">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAQ=</HashCode>
+      <FileName>ModelMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.ModelRecordLine" Collapsed="true">
+    <Position X="13.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModelRecordLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.ModelRecords" Collapsed="true">
+    <Position X="9.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>ModelRecords.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Resources" Collapsed="true">
+    <Position X="11.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAIAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Objects.Food">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Objects.GameObject">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Objects\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Objects.Snake" Collapsed="true">
+    <Position X="13.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAQEIAQAIABACAAAAAAEAAAAAAAAAACAMABAAE=</HashCode>
+      <FileName>Objects\Snake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Objects.SnakeHead">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\SnakeHead.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Objects.SnakeTail">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\SnakeTail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Objects.Wall">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Objects\Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Objects.Factories.FoodFactory">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAQAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Objects\Factories\FoodFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Model.Objects.Direction" Collapsed="true">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Objects\Direction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

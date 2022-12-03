@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsController.ControllerGameWindows" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAABAQAAAAAAAgAAAAAAAAADEAgAAAAAA=</HashCode>
+      <FileName>ControllerGameWindows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsController.ControllerInstructionWindows" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAACAAAAAAAAACAAAA=</HashCode>
+      <FileName>ControllerInstructionWindows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsController.ControllerMenuWindows">
+    <Position X="4" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>KAAEAAAAACCAAAACAAAACAAABAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>ControllerMenuWindows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsController.ControllerNewRecordWindows" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAABAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>ControllerNewRecordWindows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsController.ControllerRecordsWindows" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAEAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>ControllerRecordsWindows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsView.ViewGameWindows" Collapsed="true">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsFormsView.ViewInstructionWindows" Collapsed="true">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsFormsView.ViewMenuItemWindows" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsFormsView.ViewMenuWindows" Collapsed="true">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsFormsView.ViewNewRecordWindows" Collapsed="true">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsFormsView.ViewRecordLineWindows" Collapsed="true">
+    <Position X="12.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsFormsView.ViewRecordsWindows" Collapsed="true">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsFormsView.Objects.Factories.ViewGameObjectWindowsFactory" Collapsed="true">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsFormsView.Objects.ViewFoodWindows" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsFormsView.Objects.ViewGameObjectWindows" Collapsed="true">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsFormsView.Objects.ViewMenuGameNameWindows" Collapsed="true">
+    <Position X="12.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsFormsView.Objects.ViewScoresWindows" Collapsed="true">
+    <Position X="9.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsFormsView.Objects.ViewSnakeWindows" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsFormsView.Objects.ViewStringWindows" Collapsed="true">
+    <Position X="11" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsFormsView.Objects.ViewWallWindows" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Delegate Name="WindowsFormsView.DKeyDown" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

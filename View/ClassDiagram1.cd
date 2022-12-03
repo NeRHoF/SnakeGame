@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="View.Objects.ViewGameObject" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Objects\ViewGameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Objects.ViewMenuGameName" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ViewMenuGameName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Objects.ViewObject" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ViewObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Objects.ViewScores" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ViewScores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.ViewGame" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAAgAAAAAAAAAASAAAABAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>ViewGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.ViewInstruction" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAgAAAAgABAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>ViewInstruction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.ViewMenu" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAgAAAAgAEAAAAAAEAAAAAAAAAAAAAAAAABYAA=</HashCode>
+      <FileName>ViewMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.ViewMenuItem" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAYAA=</HashCode>
+      <FileName>ViewMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.ViewNewRecord" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAgAAAAggBAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewNewRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.ViewRecordLine" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAgAAAAAAAYAA=</HashCode>
+      <FileName>ViewRecordLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.ViewRecords" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAgAAAAAAAAACAAAAAAAAAAAAAAAAggAAAAAAA=</HashCode>
+      <FileName>ViewRecords.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="View.Objects.ViewType" Collapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAQAAAAAAgAAAAA=</HashCode>
+      <FileName>Objects\ViewType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
